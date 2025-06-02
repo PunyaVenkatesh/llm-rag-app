@@ -1,10 +1,7 @@
-transformers
-langchain>=0.2.0
-langchain-community
-huggingface_hub
 streamlit
+langchain[embeddings]
+transformers
+faiss-cpu
 python-dotenv
 PyPDF2
-python-docx
-torch
 sentence-transformers
