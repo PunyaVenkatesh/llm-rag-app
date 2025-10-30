@@ -18,8 +18,13 @@ Optimized chunking, embedding, and retrieval pipelines for speed and accuracy
 Python, LangChain, Hugging Face, FAISS, Streamlit
 
 ⚙️ How to Run
+
 git clone https://github.com/yourusername/llm-document-summarizer.git
+
 cd llm-document-summarizer
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
 
