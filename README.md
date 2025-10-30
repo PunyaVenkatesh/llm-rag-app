@@ -27,4 +27,11 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+📈 Results
+
+Summarizes lengthy documents in seconds
+
+Modular design allows easy integration with different LLMs and embedding models
+
+
 
